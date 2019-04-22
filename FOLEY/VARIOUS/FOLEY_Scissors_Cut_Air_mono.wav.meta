@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 3585d51f3d553e74f96c7493b82f9f84
+labels:
+- usfx
+- imphenzia
+- foley
+- scissors
+- cut
+- mono
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

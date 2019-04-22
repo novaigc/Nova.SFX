@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 363f0aa6ac1ab2545976f4e1a9b8379a
+labels:
+- usfx
+- imphenzia
+- magic
+- spell
+- stereo
+- wizard
+- sourcer
+- cast
+- enchant
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 642e9b5ee43087a409a9e3e3b2671ff1
+labels:
+- usfx
+- imphenzia
+- voice
+- male
+- mono
+- radio
+- communication
+- command
+- com
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

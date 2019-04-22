@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 7c4d69870065b8043aaa1f4f08e1e039
+labels:
+- usfx
+- imphenzia
+- creak
+- wood
+- mono
+- tree
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

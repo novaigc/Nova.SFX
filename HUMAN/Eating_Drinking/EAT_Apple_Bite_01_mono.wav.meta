@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 2d2ba1169aee58b4ca1ebf3db10db5c7
+labels:
+- usfx
+- imphenzia
+- human
+- mono
+- eat
+- apple
+- bite
+- chew
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

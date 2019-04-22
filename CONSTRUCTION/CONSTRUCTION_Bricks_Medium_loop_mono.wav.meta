@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 220d30d1d59a33a49ba7c751912e58ec
+labels:
+- usfx
+- imphenzia
+- construction
+- build
+- bricks
+- loop
+- mono
+- construct
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

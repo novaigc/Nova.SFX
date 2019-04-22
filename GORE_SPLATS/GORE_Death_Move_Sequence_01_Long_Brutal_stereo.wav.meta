@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 40c674cd0a095b142ace537738e72eab
+labels:
+- usfx
+- imphenzia
+- gore
+- blood
+- mono
+- splat
+- stereo
+- brutal
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

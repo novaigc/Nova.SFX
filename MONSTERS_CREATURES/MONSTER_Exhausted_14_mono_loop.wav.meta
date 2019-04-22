@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 9371f0a8bfc7d544fa9da8a8412cbef4
+labels:
+- usfx
+- imphenzia
+- monster
+- gigant
+- effort
+- exhausted
+- breathe
+- breath
+- struggle
+- mono
+- loop
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

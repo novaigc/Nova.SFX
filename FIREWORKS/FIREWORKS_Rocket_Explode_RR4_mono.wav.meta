@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 1d1031f70a30e5846998ecff5ba6f7c5
+labels:
+- usfx
+- imphenzia
+- fireworks
+- firework
+- rocket
+- explode
+- explosion
+- bang
+- mono
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

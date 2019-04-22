@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: af2e8d86582dfb545a8d26fc45163cd0
+labels:
+- usfx
+- imphenzia
+- battle
+- medieval
+- swords
+- fighting
+- shields
+- sword
+- shield
+- stereo
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

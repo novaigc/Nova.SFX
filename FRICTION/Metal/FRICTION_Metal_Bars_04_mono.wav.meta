@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: a41f5228707d2d34cb4a3eef2fec44fe
+labels:
+- usfx
+- imphenzia
+- friction
+- metal
+- glide
+- mono
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

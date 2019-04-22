@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 6c192b2bc1556d74186f8cd1aafb1584
+labels:
+- usfx
+- imphenzia
+- pen
+- marker
+- scribble
+- write
+- draw
+- mono
+- foley
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

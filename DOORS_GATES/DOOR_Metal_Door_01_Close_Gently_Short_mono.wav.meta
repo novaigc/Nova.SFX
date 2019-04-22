@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 2f7175d6a4b21ab409bd3d3f21f489c2
+labels:
+- usfx
+- imphenzia
+- door
+- metal
+- close
+- gentle
+- mono
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

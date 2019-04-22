@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 9ca2af1d71ba25c48a03dae74afd3e72
+labels:
+- usfx
+- imphenzia
+- key
+- lock
+- mono
+- unlock
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

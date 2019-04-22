@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: de44bdd88e1ef4542aba26e661d98b7c
+labels:
+- 8bit
+- retro
+- explosion
+- blow
+- explode
+- imphenzia
+- usfx
+- mono
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

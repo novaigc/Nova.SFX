@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 18e9c45da36cc8049b4353d0a3798a23
+labels:
+- usfx
+- imphenzia
+- bin
+- waste
+- waste bin
+- trash
+- mono
+- foley
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
